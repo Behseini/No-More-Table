@@ -1,0 +1,30 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+        </div>
+        <div id="no-more-tables">
+            <table class="col-md-12 table-bordered table-striped table-condensed cf">
+
+        		<tbody>
+        			<tr>
+        				<td data-title="Datw">Date</td>
+        				<td data-title="Name">Jan 19 2016</td>
+
+        			</tr>
+        			
+        		</tbody>
+        	</table>
+        </div>
+    </div>
+
+</div>
+
+
+table{ width:100% !important;}
+@media only screen and (max-width: 800px) {
+  td {
+    width:94% !important;
+    display: block;
+     margin:0 auto;
+  }
+}
